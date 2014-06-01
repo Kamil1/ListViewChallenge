@@ -1,5 +1,5 @@
 //
-//  KKViewController.h
+//  KKTableViewController.h
 //  UIListView Challenge Solution
 //
 //  Created by Kamil Khan on 2014-05-31.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface KKViewController : UIViewController
+@interface KKTableViewController : UITableViewController
 
 @end
